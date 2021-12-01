@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "nextlearn-e645a": {
+      "hosting": {
+        "firebase-angular-auth": [
+          "nextlearn-e645a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "nextlearn-e645a"
+  }
+}
